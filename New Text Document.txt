@@ -13,3 +13,10 @@ git commit -m "First release of Hello World!"
 git status --short
 
 git commit -a -m "Updated index.html with a new line"
+git log
+git commit -help
+git help --al
+git branch hello-world-images
+git branch
+git checkout hello-world-images
+git status
