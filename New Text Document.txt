@@ -8,3 +8,8 @@ git commit  .  Store prepared changes in local revision history
  git config --global user.email "azsoftir@gmail.com"
 
 git add index.html
+git add --all
+git commit -m "First release of Hello World!"
+git status --short
+
+git commit -a -m "Updated index.html with a new line"
