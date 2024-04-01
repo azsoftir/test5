@@ -1,0 +1,10 @@
+git config --global user.name "w3schools-test"
+git config --global user.email "test@w3schools.com"
+git init
+git status
+git add
+git add .
+git commit  .  Store prepared changes in local revision history
+ git config --global user.email "azsoftir@gmail.com"
+
+git add index.html
